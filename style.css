@@ -26,6 +26,10 @@ body {
 	padding: 5px 0 0 7px;
 }
 
+.P1A .links {
+	margin-right: 0px;
+}
+
 .P1A a {
 	font-size: 12px;
 	margin: 5px;
